@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redes Sociales</title>
+        <style>
+            body{
+                background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fludomag.com%2Fes%2F2024%2F04%2F26%2Fla-unesco-advierte-sobre-el-impacto-de-las-redes-sociales-en-las-jovenes%2F&psig=AOvVaw38iHnEhP0mn0a5IKom8gNe&ust=1725299169583000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCBxO_kn4gDFQAAAAAdAAAAABAE");
+                background-repeat: no-repeat;
+                background-size: 100% 450%;
+            }
+            h1{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                color: rgb(252, 251, 250);
+
+            }
+           
+        </style>
+
+</head>
+
+
+
+<!---Menu principal--->
+<body>
+    <h1><center>LAS REDES SOCIALES</center></h1>
+    
+    <!--texto-->
+    <h2><center>¿Que son las redes sociales?</center></h2>
+
+    <p>
+        Las redes sociales son estructuras formadas en Internet por personas u organizaciones
+        que se conectan a partir de intereses o valores comunes. A través de ellas, se crean relaciones 
+        entre individuos o empresas de forma rápida, sin jerarquía o límites físicos.
+    </p>
+    <p>
+        Las redes sociales, en el mundo virtual, son sitios y aplicaciones que operan en niveles diversos 
+        como el profesional, de relación, entre otros pero siempre permitiendo el intercambio de información
+        entre personas y/o empresas.
+        Cuando hablamos de red social, lo que viene a la mente en primer lugar son sitios como Facebook, Twitter y LinkedIn
+        o aplicaciones como TikTok e Instagram, típicos de la actualidad. Pero la idea, sin embargo, es mucho más antigua:
+        en la sociología, por ejemplo, el concepto de red social 
+        se utiliza para analizar interacciones entre individuos, grupos, organizaciones o hasta sociedades enteras desde el final del sig
+        lo XIX.
+        En Internet, las redes sociales han suscitado discusiones como la de falta de privacidad, pero también han servido como medio de convocatoria
+        para manifestaciones públicas en protestas. Estas plataformas crearon, también, una nueva forma de relación entre empresas y clientes, abriendo
+        caminos tanto para la interacción, como para el anuncio de productos o servicios.
+    </p>
+    <!--video-->
+    <h2>VIDEO</h2>
+    <center><video src="https://www.youtube.com/watch?v=6GBCrVR4JnQ" height="450" controls autoplay loop ></video></center>
+
+    <!--imagenes-->
+    <center><h2>IMAGENES DE REDES SOCIALES</h2></center>
+    <center><img src="imagen 1.jpg" width="310">
+        <img src="imagen 2.jpg"  width="290">
+        <img src="imagen 5.png" width="317"><br>
+        <img src="imagen 3.jpg"  width="380" >
+        <img src="imagen 4.jpg" width="240" high="100">
+
+    </center>
+
+    <!--archivo-->
+    <center> <embed src="documento.pdf" width="1100" height="600" type="application/pdf"></center> 
+
+    <!--auidio-->
+    <center><h2>AUDUIO</h2>
+        <audio autoplay controls loop>
+          <source src="cancion.mp3" type="audio/mpeg">
+        </audio>
+    </center>
+
+</body>
+</html>
